@@ -1,4 +1,6 @@
-![logo](https://github.com/omgujjewar/omgujjewar/blob/main/Frontend%20Developer.jpg)
+![Untitled design](https://github.com/omgujjewar/omgujjewar/assets/149133209/e67d0009-e83a-40fe-baff-15f6b65e8a48)
+
+
 <h1 align="center">Hi 👋, I'm Om Gujjewar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
